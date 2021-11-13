@@ -19,7 +19,7 @@
 # D                             Droped
 
 def intro():
-    print("Hello User!")
+    print("Hello, User! Got your card and wondering what mark you got and the description? This is the program for you enter you grades!")
 
 def grade():
     grades = int (input("enter: "))

@@ -49,3 +49,37 @@ git --work-tree="." pull --allow-unrelated-historie
 https://github.com/YlizaNicole/assignment_5
 git pull origin branchname --allow-unrelated-histories
 git pull origin master --allow-unrelated-histories
+git --work-tree="." pull --allow-unrelated-histories
+git push origin
+ git push --set-upstream origin master
+ git push --set-upstream origin master
+git --work-tree="." pull --allow-unrelated-histories
+error: You have not concluded your merge (MERGE_HEAD exists).
+git --work-tree="." pull --allow-unrelated-histories
+error: You have not concluded your merge (MERGE_HEAD exists).git push origin
+git push origin
+git pull origin
+ls
+git init
+ls
+cd
+git init
+git remote add origin https://github.com/YlizaNicole/assignment_5
+git remote -v
+git add .
+git commit -m "Second commit"
+git push origin master
+ls
+cd
+git init
+git remote add origin https://github.com/YlizaNicole/assignment_5
+git remote -v
+git add .
+git commit -m "Third commit"
+git push origin master
+/usr/bin/python3 /home/yli/assignment_5/assignment_5/third.py
+/usr/bin/python3 /home/yli/assignment_5/assignment_5/third.py
+/usr/bin/python3 /home/yli/assignment_5/assignment_5/third.py
+/usr/bin/python3 /home/yli/assignment_5/assignment_5/third.py
+/usr/bin/python3 /home/yli/assignment_5/assignment_5/third.py
+/usr/bin/python3 /home/yli/assignment_5/assignment_5/first.py
