@@ -20,10 +20,10 @@ file:///home/yli/assignment_5/assignment_5/first.py {"mtime":1636825557823,"ctim
 # D                             Droped
 
 def intro():
-    print("Hello, User! Got your card and wondering what mark you got and the description? This is the program for you! Enter you grades!")
+    print("Hello, User! Got your card and wondering what mark you got and the description? This is the program for you!")
 
 def grade():
-    grades = int (input("enter: "))
+    grades = int (input("enter your grades: "))
     if grades >= 101 or grades <= 64:
         print("invalid")
     elif grades >= 97 and grades <= 100:

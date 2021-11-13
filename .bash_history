@@ -83,3 +83,17 @@ git push origin master
 /usr/bin/python3 /home/yli/assignment_5/assignment_5/third.py
 /usr/bin/python3 /home/yli/assignment_5/assignment_5/third.py
 /usr/bin/python3 /home/yli/assignment_5/assignment_5/first.py
+/usr/bin/python3 /home/yli/assignment_5/assignment_5/second.py
+/usr/bin/python3 /home/yli/assignment_5/assignment_5/second.py
+/usr/bin/python3 /home/yli/assignment_5/assignment_5/third.py
+/usr/bin/python3 /home/yli/assignment_5/assignment_5/second.py
+ls
+cd
+git init
+git remote add origin https://github.com/YlizaNicole/assignment_5
+git remote -v
+git add .
+git commit -m "Third commit"
+git push origin master
+git push origin master
+git push origin master

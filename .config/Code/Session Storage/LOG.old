@@ -1,2 +1,3 @@
-2021/11/14-01:26:01.311 1ce Creating DB /home/yli/.config/Code/Session Storage since it was missing.
-2021/11/14-01:26:01.326 1ce Reusing MANIFEST /home/yli/.config/Code/Session Storage/MANIFEST-000001
+2021/11/14-01:47:44.236 46f Reusing MANIFEST /home/yli/.config/Code/Session Storage/MANIFEST-000001
+2021/11/14-01:47:44.237 46f Recovering log #3
+2021/11/14-01:47:44.242 46f Reusing old log /home/yli/.config/Code/Session Storage/000003.log 

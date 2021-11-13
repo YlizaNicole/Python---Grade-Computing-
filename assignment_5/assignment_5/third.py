@@ -17,9 +17,10 @@ def lifestages():
     elif age >= 13 and age <= 17:
         print("You're a Teen, Dont get pregnant!")
     elif age == 18:
-        print("You're a Debutant. Am i invited?")   
-    elif age >= 19:
-        print("You're an Adult. Travel the world")
+        print("You're a Debutant. Am i invited to the party?")   
+    else:
+         age >= 19
+         print("You're an Adult. Travel the world")
 
 greetings()
 lifestages()

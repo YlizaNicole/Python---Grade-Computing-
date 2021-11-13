@@ -4,12 +4,12 @@
 #Display the lowest number
 
 def greetings():
-    print("Hello User!")
+    print("Hello User! This program helps you find the lowest of 3 numbers all you need to do is input the numbers!")
 
 def lowestNumber():
-    first = int(input("first Number: "))
-    second = int(input("second Number: "))
-    third = int(input("third Number: "))
+    first = int(input("input the first Number: "))
+    second = int(input("input the second Number: "))
+    third = int(input("input the third Number: "))
     if first <= second and first <= third:
         print("The lowest number is ", first)
     elif second <= first and second <=  third:
