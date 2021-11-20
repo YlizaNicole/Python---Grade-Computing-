@@ -1,0 +1,30 @@
+Validating found git in: git
+Using git 2.20.1 from git
+> git rev-parse --git-dir
+Open repository: /home/yli/assignment_5
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/yli/assignment_5/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :assignment_5/assignment_5/first.py
+> git ls-files --stage -- /home/yli/assignment_5/assignment_5/assignment_5/first.py
+> git cat-file -s 2e6a0b0f15c1d0dd105e8520bcf947dbf27e606f
+> git show --textconv :assignment_5/assignment_5/second.py
+> git ls-files --stage -- /home/yli/assignment_5/assignment_5/assignment_5/second.py
+> git cat-file -s 22db3cccc3f7073d371cee25b0df48654f760a1e
+> git show --textconv :assignment_5/assignment_5/third.py
+> git ls-files --stage -- /home/yli/assignment_5/assignment_5/assignment_5/third.py
+> git cat-file -s 26bb09e9cf7adc318714c12c4b239b4bcd4c1c5e
+> git show --textconv :assignment_5/assignment_5/second.py
+> git ls-files --stage -- /home/yli/assignment_5/assignment_5/assignment_5/second.py
+> git cat-file -s 22db3cccc3f7073d371cee25b0df48654f760a1e
+> git show --textconv :assignment_5/assignment_5/first.py
+> git ls-files --stage -- /home/yli/assignment_5/assignment_5/assignment_5/first.py
+> git cat-file -s 2e6a0b0f15c1d0dd105e8520bcf947dbf27e606f
