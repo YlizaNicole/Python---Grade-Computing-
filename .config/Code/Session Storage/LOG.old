@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 2021/11/20-18:45:29.906 20d Reusing MANIFEST /home/yli/.config/Code/Session Storage/MANIFEST-000001
 2021/11/20-18:45:29.914 20d Recovering log #3
 2021/11/20-18:45:29.914 20d Reusing old log /home/yli/.config/Code/Session Storage/000003.log 
+=======
+2021/11/14-01:47:44.236 46f Reusing MANIFEST /home/yli/.config/Code/Session Storage/MANIFEST-000001
+2021/11/14-01:47:44.237 46f Recovering log #3
+2021/11/14-01:47:44.242 46f Reusing old log /home/yli/.config/Code/Session Storage/000003.log 
+>>>>>>> f7657de883e5d953dfe8ba203d3a9690e7640740

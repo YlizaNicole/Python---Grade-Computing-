@@ -1,0 +1,26 @@
+[2021-11-14 01:55:41.946] [exthost] [info] Extension host with pid 2094 started
+[2021-11-14 01:55:41.946] [exthost] [info] Skipping acquiring lock for /home/yli/.config/Code/User/workspaceStorage/5ee4c0f1adbf7f54e9efd3214e4621ae.
+[2021-11-14 01:55:42.191] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-11-14 01:55:42.230] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.vscode-pylance
+[2021-11-14 01:55:42.849] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2021-11-14 01:55:43.678] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-14 01:55:43.695] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-14 01:55:44.538] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-14 01:55:44.696] [exthost] [info] Eager extensions activated
+[2021-11-14 01:55:45.008] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-14 01:55:46.147] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2021-11-14 01:55:46.532] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-11-14 01:55:46.903] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2021-11-14 01:57:04.880] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-14 01:57:04.880] [exthost] [error] TypeError: Cannot read property 'length' of undefined
+	at /home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:353150
+	at h (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:358146)
+	at async x.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:181124)
+[2021-11-14 01:59:00.474] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-14 01:59:00.474] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:111208
+	at async d.provideHover (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:170516)
+[2021-11-14 01:59:52.723] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-11-14 01:59:53.960] [exthost] [info] Extension host with pid 2094 exiting with code 0

@@ -1,0 +1,20 @@
+[2021-11-14 01:26:13.369] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.createExtensionHost() took 68 ms.
+[2021-11-14 01:26:13.433] [renderer1] [info] Starting extension host with pid 729.
+[2021-11-14 01:26:13.437] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 24 ms.
+[2021-11-14 01:26:15.774] [renderer1] [error] [Extension Host] (node:729) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2021-11-14 01:27:01.066] [renderer1] [info] Starting extension host with pid 1086.
+[2021-11-14 01:27:01.075] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 71 ms.
+[2021-11-14 01:27:03.338] [renderer1] [error] [Extension Host] (node:1086) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2021-11-14 01:31:35.564] [renderer1] [error] Cannot read property 'length' of undefined: TypeError: Cannot read property 'length' of undefined
+	at /home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:353150
+	at h (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:358146)
+	at async x.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:181124)
+[2021-11-14 01:34:53.846] [renderer1] [info] Enabling inspect port on extension host with pid 1086.
+[2021-11-14 01:35:31.677] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.git' took 53% of 3318.397ms, saved PROFILE here: 'file:///tmp/exthost-d498c7.cpuprofile' [{"id":"gc","total":92401,"percentage":3},{"id":"ms-python.python","total":35638,"percentage":1},{"id":"ms-toolsai.jupyter","total":19937,"percentage":1},{"id":"program","total":818791,"percentage":25},{"id":"self","total":589488,"percentage":18},{"id":"vscode.git","total":1753690,"percentage":53},{"id":"vscode.merge-conflict","total":7855,"percentage":0}]
+[2021-11-14 01:38:36.964] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.git' took 45% of 2044.227ms, saved PROFILE here: 'file:///tmp/exthost-c2c70c.cpuprofile' [{"id":"gc","total":135961,"percentage":7},{"id":"ms-python.python","total":3342,"percentage":0},{"id":"ms-toolsai.jupyter","total":5632,"percentage":0},{"id":"program","total":413448,"percentage":20},{"id":"self","total":561481,"percentage":27},{"id":"vscode.git","total":923380,"percentage":45}]
+[2021-11-14 01:41:18.390] [renderer1] [error] Cannot read property 'length' of undefined: TypeError: Cannot read property 'length' of undefined
+	at /home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:353150
+	at h (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:358146)
+	at async x.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:181124)

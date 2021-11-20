@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 2021/11/20-18:45:37.545 4f1 Reusing MANIFEST /home/yli/.config/Code/Local Storage/leveldb/MANIFEST-000001
 2021/11/20-18:45:37.546 4f1 Recovering log #3
 2021/11/20-18:45:37.546 4f1 Reusing old log /home/yli/.config/Code/Local Storage/leveldb/000003.log 
+=======
+2021/11/14-01:55:35.184 7f3 Reusing MANIFEST /home/yli/.config/Code/Local Storage/leveldb/MANIFEST-000001
+2021/11/14-01:55:35.184 7f3 Recovering log #3
+2021/11/14-01:55:35.184 7f3 Reusing old log /home/yli/.config/Code/Local Storage/leveldb/000003.log 
+>>>>>>> f7657de883e5d953dfe8ba203d3a9690e7640740

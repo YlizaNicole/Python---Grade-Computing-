@@ -1,0 +1,16 @@
+[Info  - 1:55:50 AM] Pylance language server 2021.11.1 (pyright 446a9bdb) starting
+[Info  - 1:55:50 AM] Server root directory: /home/yli/.vscode/extensions/ms-python.vscode-pylance-2021.11.1/dist
+[Info  - 1:55:51 AM] No configuration file found.
+[Info  - 1:55:51 AM] No pyproject.toml file found.
+[Info  - 1:55:51 AM] Setting pythonPath for service "assignment_5": "/usr/bin/python3"
+[Warn  - 1:55:51 AM] stubPath /home/yli/assignment_5/assignment_5/typings is not a valid directory.
+[Info  - 1:55:51 AM] Assuming Python version 3.7
+[Info  - 1:55:51 AM] Assuming Python platform Linux
+[Warn  - 1:55:52 AM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 1:55:52 AM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 1:55:52 AM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 1:55:52 AM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 1:55:52 AM] Searching for source files
+[Info  - 1:55:52 AM] Found 3 source files
+[Info  - 1:55:53 AM] Background analysis(1) root directory: /home/yli/.vscode/extensions/ms-python.vscode-pylance-2021.11.1/dist
+[Info  - 1:55:53 AM] Background analysis(1) started

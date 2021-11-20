@@ -169,6 +169,10 @@
 		"id": "b15c72f8-d5fe-421a-a4f7-27ed9f6addbf",
 		"publisherId": "ac8eb7c9-3e59-4b39-8040-f0484d8170ce",
 		"publisherDisplayName": "Microsoft",
+<<<<<<< HEAD
 		"installedTimestamp": 1637405887582
+=======
+		"installedTimestamp": 1636824632426
+>>>>>>> f7657de883e5d953dfe8ba203d3a9690e7640740
 	}
 }

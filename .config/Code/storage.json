@@ -3,7 +3,11 @@
     "openedPathsList": {
         "entries": [
             {
+<<<<<<< HEAD
                 "folderUri": "file:///home/yli/assignment_5"
+=======
+                "folderUri": "file:///home/yli/assignment_5/assignment_5"
+>>>>>>> f7657de883e5d953dfe8ba203d3a9690e7640740
             }
         ]
     },
@@ -20,6 +24,13 @@
                         "label": "New &&Window"
                     },
                     {
+<<<<<<< HEAD
+=======
+                        "id": "welcome.showNewFileEntries",
+                        "label": "New File..."
+                    },
+                    {
+>>>>>>> f7657de883e5d953dfe8ba203d3a9690e7640740
                         "id": "vscode.menubar.separator"
                     },
                     {
@@ -51,6 +62,7 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
+<<<<<<< HEAD
                                         "fsPath": "/home/yli/assignment_5",
                                         "external": "file:///home/yli/assignment_5",
                                         "path": "/home/yli/assignment_5",
@@ -58,6 +70,15 @@
                                     },
                                     "enabled": true,
                                     "label": "~/assignment_5"
+=======
+                                        "fsPath": "/home/yli/assignment_5/assignment_5",
+                                        "external": "file:///home/yli/assignment_5/assignment_5",
+                                        "path": "/home/yli/assignment_5/assignment_5",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/assignment_5/assignment_5"
+>>>>>>> f7657de883e5d953dfe8ba203d3a9690e7640740
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -401,7 +422,12 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
+<<<<<<< HEAD
                                     "label": "Show &&Panel"
+=======
+                                    "label": "Show &&Panel",
+                                    "checked": true
+>>>>>>> f7657de883e5d953dfe8ba203d3a9690e7640740
                                 },
                                 {
                                     "id": "workbench.action.toggleEditorVisibility",
@@ -466,6 +492,16 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
+<<<<<<< HEAD
+=======
+                                    "id": "workbench.action.splitEditorInGroup",
+                                    "label": "Split in &&Group"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+>>>>>>> f7657de883e5d953dfe8ba203d3a9690e7640740
                                     "id": "workbench.action.editorLayoutSingle",
                                     "label": "&&Single"
                                 },
@@ -531,6 +567,13 @@
                         "label": "E&&xtensions"
                     },
                     {
+<<<<<<< HEAD
+=======
+                        "id": "workbench.view.extension.test",
+                        "label": "T&&esting"
+                    },
+                    {
+>>>>>>> f7657de883e5d953dfe8ba203d3a9690e7640740
                         "id": "vscode.menubar.separator"
                     },
                     {
@@ -554,8 +597,12 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
+<<<<<<< HEAD
                         "label": "&&Word Wrap",
                         "enabled": false
+=======
+                        "label": "&&Word Wrap"
+>>>>>>> f7657de883e5d953dfe8ba203d3a9690e7640740
                     },
                     {
                         "id": "editor.action.toggleMinimap",
@@ -904,8 +951,12 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
+<<<<<<< HEAD
                         "label": "&&Split Terminal",
                         "enabled": false
+=======
+                        "label": "&&Split Terminal"
+>>>>>>> f7657de883e5d953dfe8ba203d3a9690e7640740
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1050,6 +1101,13 @@
                 "label": "Ctrl+Shift+N",
                 "userSettingsLabel": "ctrl+shift+n"
             },
+<<<<<<< HEAD
+=======
+            "welcome.showNewFileEntries": {
+                "label": "Ctrl+Alt+Super+N",
+                "userSettingsLabel": "ctrl+alt+meta+n"
+            },
+>>>>>>> f7657de883e5d953dfe8ba203d3a9690e7640740
             "workbench.action.files.openFile": {
                 "label": "Ctrl+O",
                 "userSettingsLabel": "ctrl+o"
@@ -1240,6 +1298,14 @@
                 "isNative": false,
                 "userSettingsLabel": "ctrl+numpad0"
             },
+<<<<<<< HEAD
+=======
+            "workbench.action.splitEditorInGroup": {
+                "label": "Ctrl+K Ctrl+Shift+\\",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+shift+\\"
+            },
+>>>>>>> f7657de883e5d953dfe8ba203d3a9690e7640740
             "workbench.action.toggleEditorGroupLayout": {
                 "label": "Shift+Alt+0",
                 "userSettingsLabel": "shift+alt+0"
@@ -1482,13 +1548,18 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
+<<<<<<< HEAD
             "sideBarWidth": 190,
+=======
+            "sideBarWidth": 256,
+>>>>>>> f7657de883e5d953dfe8ba203d3a9690e7640740
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
+<<<<<<< HEAD
             "folder": "file:///home/yli/assignment_5",
             "backupPath": "/home/yli/.config/Code/Backups/f7b60ebe8642ffaef50d0b1b91380717",
             "uiState": {
@@ -1496,6 +1567,15 @@
                 "x": 388,
                 "y": 40,
                 "width": 760,
+=======
+            "folder": "file:///home/yli/assignment_5/assignment_5",
+            "backupPath": "/home/yli/.config/Code/Backups/9bf1f9dc04827cbe93746e59a731ad51",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 40,
+                "width": 1536,
+>>>>>>> f7657de883e5d953dfe8ba203d3a9690e7640740
                 "height": 784
             }
         },

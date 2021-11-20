@@ -1,0 +1,137 @@
+[2021-11-14 01:26:16.228] [exthost] [info] Extension host with pid 729 started
+[2021-11-14 01:26:17.016] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-11-14 01:26:17.074] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-14 01:26:17.095] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-14 01:26:17.996] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-14 01:26:18.479] [exthost] [info] Eager extensions activated
+[2021-11-14 01:26:18.752] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-14 01:26:19.068] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-11-14 01:26:58.532] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-11-14 01:26:59.572] [exthost] [info] Extension host with pid 729 exiting with code 0
+[2021-11-14 01:27:03.836] [exthost] [info] Extension host with pid 1086 started
+[2021-11-14 01:27:03.836] [exthost] [info] Skipping acquiring lock for /home/yli/.config/Code/User/workspaceStorage/5ee4c0f1adbf7f54e9efd3214e4621ae.
+[2021-11-14 01:27:04.183] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-11-14 01:27:04.278] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-14 01:27:04.302] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-14 01:27:04.802] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-14 01:27:04.963] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 303
+[2021-11-14 01:27:05.096] [exthost] [info] Eager extensions activated
+[2021-11-14 01:27:05.698] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-11-14 01:27:05.713] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-14 01:27:13.021] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 318
+[2021-11-14 01:31:12.998] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2021-11-14 01:31:13.729] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2021-11-14 01:31:15.258] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2021-11-14 01:31:16.063] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2021-11-14 01:31:22.402] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-14 01:31:22.403] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:118727
+	at async A.provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:172824)
+[2021-11-14 01:31:27.449] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-14 01:31:27.457] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:111208
+	at async d.provideHover (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:170516)
+[2021-11-14 01:31:35.494] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-14 01:31:35.494] [exthost] [error] TypeError: Cannot read property 'length' of undefined
+	at /home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:353150
+	at h (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:358146)
+	at async x.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:181124)
+[2021-11-14 01:31:48.736] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-14 01:31:48.736] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:118727
+	at async A.provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:172824)
+[2021-11-14 01:31:58.620] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-14 01:31:58.620] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:112196
+	at async W.provideSignatureHelp (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:184932)
+[2021-11-14 01:31:58.620] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-14 01:31:58.621] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:118727
+	at runNextTicks (internal/process/task_queues.js:58:5)
+	at processImmediate (internal/timers.js:434:9)
+	at async A.provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:172824)
+[2021-11-14 01:31:58.621] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-14 01:31:58.621] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:112196
+	at async W.provideSignatureHelp (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:184932)
+[2021-11-14 01:31:58.670] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-14 01:31:58.670] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:118727
+	at runNextTicks (internal/process/task_queues.js:58:5)
+	at processImmediate (internal/timers.js:434:9)
+	at async A.provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:172824)
+[2021-11-14 01:32:06.499] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-14 01:32:06.499] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:118727
+	at async A.provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:172824)
+[2021-11-14 01:33:32.823] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-14 01:33:32.824] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:118727
+	at async A.provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:172824)
+[2021-11-14 01:34:50.998] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6384
+[2021-11-14 01:35:13.641] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-14 01:35:13.641] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:118727
+	at async A.provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:172824)
+[2021-11-14 01:35:25.031] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6389
+[2021-11-14 01:37:56.901] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-14 01:37:56.902] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:118727
+	at async A.provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:172824)
+[2021-11-14 01:38:31.279] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6389
+[2021-11-14 01:41:00.056] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-14 01:41:00.056] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:118727
+	at async A.provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:172824)
+[2021-11-14 01:41:17.076] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-14 01:41:17.076] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:118727
+	at async A.provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:172824)
+[2021-11-14 01:41:18.387] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-14 01:41:18.387] [exthost] [error] TypeError: Cannot read property 'length' of undefined
+	at /home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:353150
+	at h (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:358146)
+	at async x.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:181124)
+[2021-11-14 01:42:25.215] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6389
+[2021-11-14 01:44:24.855] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-14 01:44:24.856] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:118727
+	at async A.provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:172824)
+[2021-11-14 01:45:59.232] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6392
+[2021-11-14 01:46:11.210] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-14 01:46:11.210] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:118727
+	at async A.provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:172824)
+[2021-11-14 01:46:24.208] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6392
+[2021-11-14 01:47:44.139] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-11-14 01:47:45.259] [exthost] [info] Extension host with pid 1086 exiting with code 0

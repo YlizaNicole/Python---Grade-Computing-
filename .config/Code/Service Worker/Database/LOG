@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 2021/11/20-18:45:37.659 4ee Reusing MANIFEST /home/yli/.config/Code/Service Worker/Database/MANIFEST-000001
 2021/11/20-18:45:37.663 4ee Recovering log #3
 2021/11/20-18:45:37.663 4ee Reusing old log /home/yli/.config/Code/Service Worker/Database/000003.log 
+=======
+2021/11/14-01:55:35.210 7f3 Reusing MANIFEST /home/yli/.config/Code/Service Worker/Database/MANIFEST-000001
+2021/11/14-01:55:35.210 7f3 Recovering log #3
+2021/11/14-01:55:35.210 7f3 Reusing old log /home/yli/.config/Code/Service Worker/Database/000003.log 
+>>>>>>> f7657de883e5d953dfe8ba203d3a9690e7640740
