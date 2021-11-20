@@ -31,3 +31,10 @@ Info 2021-11-20 18:58:53: Process Execution: > /usr/bin/python3 -c "import noteb
 > /usr/bin/python3 -c "import notebook"
 Info 2021-11-20 18:58:53: Process Execution: > /usr/bin/python3 -c "import notebook"
 > /usr/bin/python3 -c "import notebook"
+Info 2021-11-20 19:14:23: Shutting down notebooks for 26fdaa0a-03a9-4b0a-a23b-1f7cf30e5ed6
+Info 2021-11-20 19:14:23: Disposing HostJupyterExecution 06240c9c-bb69-429e-a632-85593ee2079a
+Info 2021-11-20 19:14:23: Disposing super HostJupyterExecution 06240c9c-bb69-429e-a632-85593ee2079a
+Info 2021-11-20 19:14:23: Disposing HostJupyterExecution 06240c9c-bb69-429e-a632-85593ee2079a
+Info 2021-11-20 19:14:23: Finished disposing HostJupyterExecution  06240c9c-bb69-429e-a632-85593ee2079a
+Info 2021-11-20 19:14:23: Cleaning up server cache 06240c9c-bb69-429e-a632-85593ee2079a
+Info 2021-11-20 19:14:23: Finished disposing HostJupyterExecution  06240c9c-bb69-429e-a632-85593ee2079a

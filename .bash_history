@@ -25,3 +25,23 @@ git pull
 git push
 git push origin master
 git push --help
+git-push - Update remote refs along with associated objects
+git remote -v
+git add .
+git commit -m "I forgot to add round but added decimals intead"
+git pull origin master
+--allow-unrelated-histories
+git --allow-unrelated-histories
+git --allow-unrelated-histories
+--allow-unrelated-histories
+git merge
+git pull
+git --work-tree="." pull --allow-unrelated-histories
+git pull origin master
+git pull
+git pull origin origin master --allow-unrelated-histories
+git merge
+git push origin master
+git push origin master
+git pull origin master
+git merge
