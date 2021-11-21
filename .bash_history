@@ -59,3 +59,23 @@ git commit -m "I'm sorry third program is deleted"
 git push origin master
 git push --help
 
+sudo apt-get update
+git remote -v
+git add .
+git commit -m "third program was deleted"
+git push origin master
+git push --help
+git-push - Update remote refs along with associated objects
+git init
+git remote -v
+git remote -v
+git add .
+git commit -m "I didnt round off sorry"
+git push origin master
+git status
+git push -u origin master
+git checkout -b FixForBug origin/dev
+git pull --rebase
+git pull origin master
+--allow-unrelated-histories
+git pull origin master --allow-unrelated-histories
