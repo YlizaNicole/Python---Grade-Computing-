@@ -30,7 +30,7 @@ def grade():
         print("Grade Mark: 1.25 Description: Excellent")
     elif grades >= 90.5 and grades <= 93.4:
         print("Grade Mark: 1.5 Description: Very Good")
-    elif grades >= 87.5 and grades <= 90.4.:
+    elif grades >= 87.5 and grades <= 90.4:
         print("Grade Mark: 1.75 Description: Very Good")
     elif grades >= 84.5 and grades <= 87.4:
         print("Grade Mark: 2.0 Description: Good")
