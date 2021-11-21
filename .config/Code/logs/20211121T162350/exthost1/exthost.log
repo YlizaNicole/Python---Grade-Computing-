@@ -55,3 +55,6 @@
 	at /home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:115854
 	at async s.provideDocumentSymbols (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
 [2021-11-21 16:27:28.367] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6700
+[2021-11-21 16:37:50.432] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6700
+[2021-11-21 16:38:20.827] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-11-21 16:38:22.044] [exthost] [info] Extension host with pid 3195 exiting with code 0

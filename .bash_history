@@ -30,3 +30,32 @@ git config --global user.email "salazarylizanicole@gmail.com"
 git config --global user.name "yli"
 git push origin master
 git pull origin master
+ls
+cd
+git init
+git remote add origin
+git remote add origin https://github.com/YlizaNicole/assignment_5
+git remote -v
+git add .
+git commit -m "the third program was deleted"
+git push origin master
+git pull origin master
+git push origin master
+ls
+cd
+git init
+git remote add origin https://github.com/YlizaNicole/assignment_5
+git remote -v
+git add .
+git rm --cached assignment_5
+-f
+git add assignment_5 && git commit -m "removed merge conflicts
+git pull origin master
+git-push - Update remote refs along with associated objects
+sudo apt-get update
+git remote -v
+git add .
+git commit -m "I'm sorry third program is deleted"
+git push origin master
+git push --help
+
