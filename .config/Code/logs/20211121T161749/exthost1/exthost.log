@@ -1,0 +1,11 @@
+[2021-11-21 16:17:58.047] [exthost] [info] Extension host with pid 2532 started
+[2021-11-21 16:17:58.047] [exthost] [info] Skipping acquiring lock for /home/yli/.config/Code/User/workspaceStorage/3ca8c7c5a5ddd39913e3677dcec51763.
+[2021-11-21 16:17:58.420] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-11-21 16:17:58.464] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-21 16:17:58.476] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-21 16:17:59.645] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-21 16:18:00.000] [exthost] [info] Eager extensions activated
+[2021-11-21 16:18:00.039] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-21 16:18:00.514] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-11-21 16:18:08.670] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-11-21 16:18:09.687] [exthost] [info] Extension host with pid 2532 exiting with code 0

@@ -1,0 +1,12 @@
+[2021-11-21 16:23:55.327] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.createExtensionHost() took 25 ms.
+[2021-11-21 16:23:55.384] [renderer1] [info] Starting extension host with pid 3091.
+[2021-11-21 16:23:55.390] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 51 ms.
+[2021-11-21 16:23:58.451] [renderer1] [error] [Extension Host] (node:3091) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2021-11-21 16:24:15.718] [renderer1] [info] Enabling inspect port on extension host with pid 3091.
+[2021-11-21 16:24:23.374] [renderer1] [info] Starting extension host with pid 3195.
+[2021-11-21 16:24:23.378] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 193 ms.
+[2021-11-21 16:24:25.999] [renderer1] [error] [Extension Host] (node:3195) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2021-11-21 16:24:31.595] [renderer1] [info] Enabling inspect port on extension host with pid 3195.
+[2021-11-21 16:27:37.704] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.git' took 64% of 5056.086ms, saved PROFILE here: 'file:///tmp/exthost-4e38c8.cpuprofile' [{"id":"gc","total":148044,"percentage":3},{"id":"ms-python.python","total":63409,"percentage":1},{"id":"ms-toolsai.jupyter","total":12120,"percentage":0},{"id":"program","total":700302,"percentage":14},{"id":"self","total":910257,"percentage":18},{"id":"vscode.git","total":3220635,"percentage":64},{"id":"vscode.merge-conflict","total":836,"percentage":0}]

@@ -1,0 +1,105 @@
+Experiment 'pythonaa' is active
+Experiment 'pythonTensorboardExperiment' is active
+Experiment 'PythonPyTorchProfiler' is active
+Experiment 'pythonDeprecatePythonPath' is active
+Experiment 'pythonRunFailedTestsButtonDisplayed' is active
+Experiment 'pythonRefreshTestsButtonDisplayed' is active
+Experiment 'pythonRememberDebugConfig' is active
+> conda info --json
+> /usr/bin/python3 ~/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+> /usr/include/python3.7 ~/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+Error 2021-11-21 16:24:21: stat() failed for "/home/yli/.config/Code/User/settings.json" [Canceled (FileSystemError): Canceled
+	at _handleError (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:164722)] {
+  code: 'Unknown'
+}
+Error 2021-11-21 16:24:21: Failed to activate a workspace, Class name = m, completed in 9082ms, has a falsy return value, Arg 1: <Uri:/home/yli/assignment_5/third.py>, Return Value: undefined [Canceled: Canceled
+	at Object.i [as canceled] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at n._remoteCall (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13876)
+	at Proxy.N.<computed>.F.charCodeAt.N.<computed> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10271)
+	at o._doExecuteCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111144)
+	at o.executeCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:110545)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:22037)
+	at s.executeCommand (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:78:222689)
+	at a.setContext (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:78:323272)
+	at P.updateTestUIButtons (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:59:76877)
+	at P.activate (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:59:75466)
+	at /home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:186743
+	at Array.map (<anonymous>)
+	at m.activateWorkspace (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:186734)]
+Error 2021-11-21 16:24:21: Failure during activation. [Canceled: Canceled
+	at Object.i [as canceled] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at n._remoteCall (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13876)
+	at Proxy.N.<computed>.F.charCodeAt.N.<computed> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10271)
+	at o._doExecuteCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111144)
+	at o.executeCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:110545)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:22037)
+	at s.executeCommand (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:78:222689)
+	at a.setContext (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:78:323272)
+	at P.updateTestUIButtons (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:59:76877)
+	at P.activate (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:59:75466)
+	at /home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:186743
+	at Array.map (<anonymous>)
+	at m.activateWorkspace (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:186734)]
+Error 2021-11-21 16:24:21: sendStartupTelemetry() failed. [Canceled: Canceled
+	at Object.i [as canceled] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at n._remoteCall (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13876)
+	at Proxy.N.<computed>.F.charCodeAt.N.<computed> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10271)
+	at o._doExecuteCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111144)
+	at o.executeCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:110545)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:22037)
+	at s.executeCommand (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:78:222689)
+	at a.setContext (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:78:323272)
+	at P.updateTestUIButtons (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:59:76877)
+	at P.activate (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:59:75466)
+	at /home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:186743
+	at Array.map (<anonymous>)
+	at m.activateWorkspace (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:186734)]
+Error 2021-11-21 16:24:21: Error while updating storage for key: PYTHON_ENV_INFO_CACHE [Canceled: Canceled
+	at Object.i [as canceled] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at n._remoteCall (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13876)
+	at Proxy.N.<computed>.F.charCodeAt.N.<computed> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10271)
+	at _.setValue (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:30461)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:4437
+	at u.runner (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:4568)
+	at u.doRun (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:73:34309)
+	at u.onTimeout (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:73:34275)
+	at listOnTimeout (internal/timers.js:554:17)
+	at processTimers (internal/timers.js:497:7)]
+Error 2021-11-21 16:24:21: Error while updating storage for key: preferredGlobalPyInterpreter [Canceled: Canceled
+	at Object.i [as canceled] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at n._remoteCall (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13876)
+	at Proxy.N.<computed>.F.charCodeAt.N.<computed> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10271)
+	at _.setValue (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:30461)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:4437
+	at u.runner (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:4568)
+	at u.doRun (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:73:34309)
+	at u.onTimeout (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:73:34275)
+	at listOnTimeout (internal/timers.js:554:17)
+	at processTimers (internal/timers.js:497:7)]
+Error 2021-11-21 16:24:21: Error while updating storage for key: autoSelectionInterpretersQueried-global [Canceled: Canceled
+	at Object.i [as canceled] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at n._remoteCall (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13876)
+	at Proxy.N.<computed>.F.charCodeAt.N.<computed> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10271)
+	at _.setValue (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:30461)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:4437
+	at u.runner (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:4568)
+	at u.doRun (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:73:34309)
+	at u.onTimeout (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:73:34275)
+	at listOnTimeout (internal/timers.js:554:17)
+	at processTimers (internal/timers.js:497:7)]
+> /usr/bin/python3 ~/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+Python interpreter path: /usr/bin/python3
+Starting Pylance language server.
+Error 2021-11-21 16:24:21: Failed to start language server, Class name = r, completed in 0ms, has a falsy return value, Arg 1: <Uri:/home/yli/assignment_5/third.py>, Arg 2: {"sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/usr/bin/python3","architecture":3,"sysVersion":"3.7.3 (default, Jan 22 2021, 20:04:44) \n[GCC 8.3.0]","version":{"raw":"3.7.3","major":3,"minor":7,"patch":3,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.7.3 64-bit"}, Return Value: undefined [Error: ms-python.vscode-pylance not installed
+	at d.getCurrentLanguageServerDirectory (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:665274)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async r.start (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:671209)]
+Error 2021-11-21 16:24:21: [Error: ms-python.vscode-pylance not installed
+	at d.getCurrentLanguageServerDirectory (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:665274)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async r.start (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:671209)]
+We encountered an issue starting the language server. Reverting to Jedi language engine. Check the Python output panel for details.
+Error 2021-11-21 16:24:21: Failed to activate language server, Class name = a, completed in 5ms, has a falsy return value, Arg 1: <Uri:/home/yli/assignment_5/third.py>, Arg 2: {"sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/usr/bin/python3","architecture":3,"sysVersion":"3.7.3 (default, Jan 22 2021, 20:04:44) \n[GCC 8.3.0]","version":{"raw":"3.7.3","major":3,"minor":7,"patch":3,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.7.3 64-bit"}, Return Value: undefined [Error: ms-python.vscode-pylance not installed
+	at d.getCurrentLanguageServerDirectory (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:665274)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async r.start (/home/yli/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:671209)]
